@@ -33,3 +33,6 @@
 
 # CMake Build
 /build
+
+# Mac Stuff
+.DS_Store
